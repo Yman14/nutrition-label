@@ -1,2 +1,3 @@
 # nutrition-label
-Learning CSS Typography by building Nutrition Label
+Learning Typography by building Nutrition Label
+
